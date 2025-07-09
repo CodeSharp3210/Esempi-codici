@@ -1,1 +1,1 @@
-printfn("Ciao da Marco")
+printf("Ciao da Marco")
